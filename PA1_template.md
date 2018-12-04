@@ -7,6 +7,7 @@ output:
 ---
 
 
+
 # Coursera - Reproducible Research - Assignment 1
 ### Author: Elian Hofer
 
