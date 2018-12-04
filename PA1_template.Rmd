@@ -1,9 +1,9 @@
 ---
 title: 'Reproducible Research: Assignment 1'
-output:
-  html_document: 
-        toc: true
+output: github_document
+  html_document:  
         keep_md: true
+      
 ---
 
 ```{r setup, include=FALSE}
